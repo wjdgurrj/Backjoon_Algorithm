@@ -23,4 +23,5 @@ int main(void) {
 		index++;
 	}
 	cout << index  << '\n';
+	
 }
