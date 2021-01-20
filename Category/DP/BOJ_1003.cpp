@@ -15,6 +15,7 @@ int main(void) {
 	for (int i = 0; i < x; i++) {
 		cin >> n;
 		cout << f[n] << ' ' << f[n + 1] << endl;
+		
 	}
 	
 }
