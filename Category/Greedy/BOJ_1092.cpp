@@ -8,7 +8,7 @@ vector<int> crane; // 크래인을 넣을 벡터
 vector<int> box; // 박스를 넣을 벡터
 int main(void) {
 	int N, boxCnt; // 박스와 크래인의 갯수
-	cin >> N; // 크래인의 갯수 입력
+	cin >> N; // 크래인의 갯수 입력 !
 	for (int i = 0; i < N; i++) { // 크래인 용량 제한 입력
 		int limit;
 		cin >> limit;
