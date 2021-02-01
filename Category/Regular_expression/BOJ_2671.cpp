@@ -14,5 +14,6 @@ int main(void) {
 	else {
 		cout << "NOISE";
 	}
+	
 	return 0;
 }
