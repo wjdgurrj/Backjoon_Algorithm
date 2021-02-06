@@ -24,5 +24,7 @@ int main(void) {
 		result = max(result, arr[i]);
 	}
 	cout << n - result << endl;
+	
 	return 0;
+	
 }
