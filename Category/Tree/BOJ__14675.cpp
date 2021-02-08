@@ -17,6 +17,7 @@ int main(void) {
 	cin >> q;
 	for (int i = 0; i < q; i++) {
 		int t, k;
+		
 		cin >> t >> k;
 		if (t == 1) {
 			if (v[k].size() == 1) {
