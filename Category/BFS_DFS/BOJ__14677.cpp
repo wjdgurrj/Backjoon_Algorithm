@@ -12,6 +12,7 @@ queue<pair<int, int>> q;
 char time[3] = { 'B', 'L', 'D' };
 void init() {
 	cin >> N >> pill;
+	
 }
 
 void bfs() {
