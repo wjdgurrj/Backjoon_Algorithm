@@ -19,6 +19,7 @@ void dfs(int x, int y,int length, double value) {
 	if (length == 0) { // length번 움직이면 return;
 		result += value;
 		return;
+		
 	}
 	visit[x][y] = true;
 	for (int i = 0; i < 4; i++) {
