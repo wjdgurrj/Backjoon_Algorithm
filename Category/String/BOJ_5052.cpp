@@ -51,5 +51,6 @@ int main(void) {
 			cout << "NO" << '\n';
 		}
 	}
+	
 	return 0;
 }
