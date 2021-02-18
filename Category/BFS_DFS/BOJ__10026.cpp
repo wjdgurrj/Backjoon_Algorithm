@@ -26,7 +26,6 @@ void bfs(int x,int y) {
 				}
 		}
 	}
-	
 }
 int main(void) {
 	int n;
@@ -50,7 +49,7 @@ int main(void) {
 		for (int j = 0; j < n; j++) {
 			if (color[i][j] == 'R') {
 				color[i][j] = 'G';
-		}
+			}
 		}
 	}
 	memset(visit, false, sizeof(visit));
