@@ -26,4 +26,5 @@ int main(void) {
 		mini[value_bottom + value_top]++;
 	}
 	cout << minimum << " "<<mini[minimum]<< endl;
+	return 0;
 }
