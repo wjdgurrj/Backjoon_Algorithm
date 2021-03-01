@@ -41,4 +41,5 @@ int main(void) {
 	bfs(n, m);
 	cout << arr[m] << endl;
 	return 0;
+	
 }
