@@ -40,5 +40,6 @@ int main(void) {
 			cout << result[i];
 		}
 	}
+	
 	return 0;
 }
