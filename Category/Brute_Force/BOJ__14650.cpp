@@ -19,4 +19,5 @@ int main(void) {
 	cout << d[N-1] << endl;
 	
 	return 0;
+	
 }
