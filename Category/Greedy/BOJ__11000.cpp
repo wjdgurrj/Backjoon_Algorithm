@@ -20,7 +20,7 @@ int main(void) {
 	}
 	sort(v.begin(), v.end());
 
-	pq.push(v[0].second);
+	pq.push(v[0].second); 
 	int cnt = 1;
 	for (int i = 1; i < N; i++) {
 		if (pq.top() <= v[i].first) {// 끝나는 시간이 시작시간보다 크거나 같으면, 즉 같은 강의실을 쓸 수 있으니
