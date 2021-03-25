@@ -12,6 +12,7 @@ vector<pair<int,int>> graph[101];
 vector<int> basic;
 queue<int> q;
 
+
 void init() {
 	cin >> N >> M;
 	for (int i = 0; i < M; i++) {
