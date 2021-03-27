@@ -1,7 +1,7 @@
 # BOJ_Solving 💻
 
 ### - solution and my opinion of Algorithm exercise ⌨
- 🖱 카테고리에 따른 문제 분류 (실버3 이상 수준의 문제들)
+ 🖱 카테고리에 따른 문제 분류
  
  🖱 알고리즘 카테고리 별 코드 기본형.
  
