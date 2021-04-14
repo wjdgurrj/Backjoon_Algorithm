@@ -22,6 +22,7 @@ void dfs(int n) {
 		result++;
 	}
 }
+
 int main(void) {
 	int num, start,cut;
 	cin >> num;
