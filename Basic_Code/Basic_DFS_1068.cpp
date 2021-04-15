@@ -8,7 +8,8 @@ bool visit[50];
 int result;
 
 void dfs(int n) {
-	visit[n] = true;
+	visit[n] = true; 
+	
 	int cnt = 0;
 	for (int i = 0; i < v[n].size(); i++) {
 		int next = v[n][i];
